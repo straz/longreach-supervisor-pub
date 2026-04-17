@@ -1,0 +1,528 @@
+{
+  "generated_at": "2026-04-17T23:33:19.649Z",
+  "orgs": [
+    {
+      "id": "axiom-bank",
+      "name": "Axiom Bank",
+      "domain": "credit-approval",
+      "logo": "/logos/axiom-logo.svg",
+      "batches": [
+        {
+          "id": "axiom-2026-q1-01",
+          "mode": "ai-first",
+          "pre_escrow": true,
+          "created_at": "2026-01-01",
+          "count": 25,
+          "decisions": [
+            {
+              "id": "dec-00001",
+              "status": "closed",
+              "verdict": "approve",
+              "path": "decisions/axiom-bank/axiom-2026-q1-01/dec-00001.8e23554b.json"
+            },
+            {
+              "id": "dec-00002",
+              "status": "closed",
+              "verdict": "approve",
+              "path": "decisions/axiom-bank/axiom-2026-q1-01/dec-00002.24865f33.json"
+            },
+            {
+              "id": "dec-00003",
+              "status": "closed",
+              "verdict": "deny",
+              "path": "decisions/axiom-bank/axiom-2026-q1-01/dec-00003.389700c9.json"
+            },
+            {
+              "id": "dec-00004",
+              "status": "need-approval",
+              "path": "decisions/axiom-bank/axiom-2026-q1-01/dec-00004.60aa0ac7.json"
+            },
+            {
+              "id": "dec-00005",
+              "status": "closed",
+              "verdict": "deny",
+              "path": "decisions/axiom-bank/axiom-2026-q1-01/dec-00005.8f6c8947.json"
+            },
+            {
+              "id": "dec-00006",
+              "status": "closed",
+              "verdict": "approve",
+              "path": "decisions/axiom-bank/axiom-2026-q1-01/dec-00006.d879fcda.json"
+            },
+            {
+              "id": "dec-00007",
+              "status": "reopened",
+              "verdict": "approve",
+              "path": "decisions/axiom-bank/axiom-2026-q1-01/dec-00007.988f4afe.json"
+            },
+            {
+              "id": "dec-00008",
+              "status": "ready",
+              "path": "decisions/axiom-bank/axiom-2026-q1-01/dec-00008.e497d8f9.json"
+            },
+            {
+              "id": "dec-00009",
+              "status": "need-approval",
+              "path": "decisions/axiom-bank/axiom-2026-q1-01/dec-00009.f923e145.json"
+            },
+            {
+              "id": "dec-00010",
+              "status": "closed",
+              "verdict": "deny",
+              "path": "decisions/axiom-bank/axiom-2026-q1-01/dec-00010.4d333a4c.json"
+            },
+            {
+              "id": "dec-00011",
+              "status": "need-approval",
+              "path": "decisions/axiom-bank/axiom-2026-q1-01/dec-00011.e0af6181.json"
+            },
+            {
+              "id": "dec-00012",
+              "status": "closed",
+              "verdict": "approve",
+              "path": "decisions/axiom-bank/axiom-2026-q1-01/dec-00012.08bcd0ec.json"
+            },
+            {
+              "id": "dec-00013",
+              "status": "closed",
+              "verdict": "approve",
+              "path": "decisions/axiom-bank/axiom-2026-q1-01/dec-00013.4a9213df.json"
+            },
+            {
+              "id": "dec-00014",
+              "status": "ready",
+              "path": "decisions/axiom-bank/axiom-2026-q1-01/dec-00014.2b9c0fc0.json"
+            },
+            {
+              "id": "dec-00015",
+              "status": "need-approval",
+              "path": "decisions/axiom-bank/axiom-2026-q1-01/dec-00015.13706392.json"
+            },
+            {
+              "id": "dec-00016",
+              "status": "closed",
+              "verdict": "deny",
+              "path": "decisions/axiom-bank/axiom-2026-q1-01/dec-00016.6fb88202.json"
+            },
+            {
+              "id": "dec-00017",
+              "status": "closed",
+              "verdict": "deny",
+              "path": "decisions/axiom-bank/axiom-2026-q1-01/dec-00017.2a3e712e.json"
+            },
+            {
+              "id": "dec-00018",
+              "status": "closed",
+              "verdict": "approve",
+              "path": "decisions/axiom-bank/axiom-2026-q1-01/dec-00018.e44513f2.json"
+            },
+            {
+              "id": "dec-00019",
+              "status": "in-prep",
+              "path": "decisions/axiom-bank/axiom-2026-q1-01/dec-00019.c9bb7874.json"
+            },
+            {
+              "id": "dec-00020",
+              "status": "closed",
+              "verdict": "approve",
+              "path": "decisions/axiom-bank/axiom-2026-q1-01/dec-00020.64140431.json"
+            },
+            {
+              "id": "dec-00021",
+              "status": "closed",
+              "verdict": "approve",
+              "path": "decisions/axiom-bank/axiom-2026-q1-01/dec-00021.6510f109.json"
+            },
+            {
+              "id": "dec-00022",
+              "status": "closed",
+              "verdict": "approve",
+              "path": "decisions/axiom-bank/axiom-2026-q1-01/dec-00022.f6f1712f.json"
+            },
+            {
+              "id": "dec-00023",
+              "status": "closed",
+              "verdict": "approve",
+              "path": "decisions/axiom-bank/axiom-2026-q1-01/dec-00023.ec58148d.json"
+            },
+            {
+              "id": "dec-00024",
+              "status": "closed",
+              "verdict": "deny",
+              "path": "decisions/axiom-bank/axiom-2026-q1-01/dec-00024.170edec5.json"
+            },
+            {
+              "id": "dec-00025",
+              "status": "closed",
+              "verdict": "approve",
+              "path": "decisions/axiom-bank/axiom-2026-q1-01/dec-00025.fdf1258c.json"
+            }
+          ]
+        },
+        {
+          "id": "axiom-2026-q1-02",
+          "mode": "ai-first",
+          "pre_escrow": false,
+          "created_at": "2026-02-01",
+          "count": 25,
+          "decisions": [
+            {
+              "id": "dec-00001",
+              "status": "need-approval",
+              "path": "decisions/axiom-bank/axiom-2026-q1-02/dec-00001.39d58c34.json"
+            },
+            {
+              "id": "dec-00002",
+              "status": "reopened",
+              "verdict": "approve",
+              "path": "decisions/axiom-bank/axiom-2026-q1-02/dec-00002.2c2b6b2c.json"
+            },
+            {
+              "id": "dec-00003",
+              "status": "closed",
+              "verdict": "approve",
+              "path": "decisions/axiom-bank/axiom-2026-q1-02/dec-00003.bd555e95.json"
+            },
+            {
+              "id": "dec-00004",
+              "status": "closed",
+              "verdict": "deny",
+              "path": "decisions/axiom-bank/axiom-2026-q1-02/dec-00004.f6c42e8b.json"
+            },
+            {
+              "id": "dec-00005",
+              "status": "closed",
+              "verdict": "deny",
+              "path": "decisions/axiom-bank/axiom-2026-q1-02/dec-00005.4d2eeef9.json"
+            },
+            {
+              "id": "dec-00006",
+              "status": "closed",
+              "verdict": "deny",
+              "path": "decisions/axiom-bank/axiom-2026-q1-02/dec-00006.39ba8971.json"
+            },
+            {
+              "id": "dec-00007",
+              "status": "need-approval",
+              "path": "decisions/axiom-bank/axiom-2026-q1-02/dec-00007.333afd38.json"
+            },
+            {
+              "id": "dec-00008",
+              "status": "closed",
+              "verdict": "approve",
+              "path": "decisions/axiom-bank/axiom-2026-q1-02/dec-00008.4853dd7a.json"
+            },
+            {
+              "id": "dec-00009",
+              "status": "closed",
+              "verdict": "approve",
+              "path": "decisions/axiom-bank/axiom-2026-q1-02/dec-00009.f7cf3f8d.json"
+            },
+            {
+              "id": "dec-00010",
+              "status": "closed",
+              "verdict": "deny",
+              "path": "decisions/axiom-bank/axiom-2026-q1-02/dec-00010.da0a770d.json"
+            },
+            {
+              "id": "dec-00011",
+              "status": "closed",
+              "verdict": "approve",
+              "path": "decisions/axiom-bank/axiom-2026-q1-02/dec-00011.3d3dea13.json"
+            },
+            {
+              "id": "dec-00012",
+              "status": "closed",
+              "verdict": "approve",
+              "path": "decisions/axiom-bank/axiom-2026-q1-02/dec-00012.b1cff50a.json"
+            },
+            {
+              "id": "dec-00013",
+              "status": "closed",
+              "verdict": "approve",
+              "path": "decisions/axiom-bank/axiom-2026-q1-02/dec-00013.84abbba0.json"
+            },
+            {
+              "id": "dec-00014",
+              "status": "closed",
+              "verdict": "approve",
+              "path": "decisions/axiom-bank/axiom-2026-q1-02/dec-00014.f81ace41.json"
+            },
+            {
+              "id": "dec-00015",
+              "status": "closed",
+              "verdict": "approve",
+              "path": "decisions/axiom-bank/axiom-2026-q1-02/dec-00015.42ec2799.json"
+            },
+            {
+              "id": "dec-00016",
+              "status": "closed",
+              "verdict": "approve",
+              "path": "decisions/axiom-bank/axiom-2026-q1-02/dec-00016.b50f563a.json"
+            },
+            {
+              "id": "dec-00017",
+              "status": "closed",
+              "verdict": "deny",
+              "path": "decisions/axiom-bank/axiom-2026-q1-02/dec-00017.a86253a7.json"
+            },
+            {
+              "id": "dec-00018",
+              "status": "closed",
+              "verdict": "approve",
+              "path": "decisions/axiom-bank/axiom-2026-q1-02/dec-00018.2c07b144.json"
+            },
+            {
+              "id": "dec-00019",
+              "status": "need-approval",
+              "path": "decisions/axiom-bank/axiom-2026-q1-02/dec-00019.88016530.json"
+            },
+            {
+              "id": "dec-00020",
+              "status": "in-prep",
+              "path": "decisions/axiom-bank/axiom-2026-q1-02/dec-00020.d1fda5eb.json"
+            },
+            {
+              "id": "dec-00021",
+              "status": "closed",
+              "verdict": "deny",
+              "path": "decisions/axiom-bank/axiom-2026-q1-02/dec-00021.85bc68d4.json"
+            },
+            {
+              "id": "dec-00022",
+              "status": "need-approval",
+              "path": "decisions/axiom-bank/axiom-2026-q1-02/dec-00022.54483d2f.json"
+            },
+            {
+              "id": "dec-00023",
+              "status": "closed",
+              "verdict": "approve",
+              "path": "decisions/axiom-bank/axiom-2026-q1-02/dec-00023.382b0a80.json"
+            },
+            {
+              "id": "dec-00024",
+              "status": "closed",
+              "verdict": "deny",
+              "path": "decisions/axiom-bank/axiom-2026-q1-02/dec-00024.7e35c39c.json"
+            },
+            {
+              "id": "dec-00025",
+              "status": "need-approval",
+              "path": "decisions/axiom-bank/axiom-2026-q1-02/dec-00025.9d74ca18.json"
+            }
+          ]
+        },
+        {
+          "id": "axiom-2026-q1-03",
+          "mode": "ai-assisted",
+          "pre_escrow": false,
+          "created_at": "2026-03-01",
+          "count": 25,
+          "decisions": [
+            {
+              "id": "dec-00001",
+              "status": "ready",
+              "path": "decisions/axiom-bank/axiom-2026-q1-03/dec-00001.5746a855.json"
+            },
+            {
+              "id": "dec-00002",
+              "status": "ready",
+              "path": "decisions/axiom-bank/axiom-2026-q1-03/dec-00002.50bb2d9f.json"
+            },
+            {
+              "id": "dec-00003",
+              "status": "closed",
+              "verdict": "approve",
+              "path": "decisions/axiom-bank/axiom-2026-q1-03/dec-00003.6b12e5f5.json"
+            },
+            {
+              "id": "dec-00004",
+              "status": "ready",
+              "path": "decisions/axiom-bank/axiom-2026-q1-03/dec-00004.1afce14f.json"
+            },
+            {
+              "id": "dec-00005",
+              "status": "closed",
+              "verdict": "deny",
+              "path": "decisions/axiom-bank/axiom-2026-q1-03/dec-00005.f6e67044.json"
+            },
+            {
+              "id": "dec-00006",
+              "status": "closed",
+              "verdict": "approve",
+              "path": "decisions/axiom-bank/axiom-2026-q1-03/dec-00006.e5d561b7.json"
+            },
+            {
+              "id": "dec-00007",
+              "status": "closed",
+              "verdict": "deny",
+              "path": "decisions/axiom-bank/axiom-2026-q1-03/dec-00007.2ea87819.json"
+            },
+            {
+              "id": "dec-00008",
+              "status": "in-prep",
+              "path": "decisions/axiom-bank/axiom-2026-q1-03/dec-00008.bedfdd8b.json"
+            },
+            {
+              "id": "dec-00009",
+              "status": "closed",
+              "verdict": "approve",
+              "path": "decisions/axiom-bank/axiom-2026-q1-03/dec-00009.72235832.json"
+            },
+            {
+              "id": "dec-00010",
+              "status": "closed",
+              "verdict": "approve",
+              "path": "decisions/axiom-bank/axiom-2026-q1-03/dec-00010.9ef773a7.json"
+            },
+            {
+              "id": "dec-00011",
+              "status": "closed",
+              "verdict": "deny",
+              "path": "decisions/axiom-bank/axiom-2026-q1-03/dec-00011.7f1ca0b4.json"
+            },
+            {
+              "id": "dec-00012",
+              "status": "closed",
+              "verdict": "approve",
+              "path": "decisions/axiom-bank/axiom-2026-q1-03/dec-00012.57a71850.json"
+            },
+            {
+              "id": "dec-00013",
+              "status": "closed",
+              "verdict": "approve",
+              "path": "decisions/axiom-bank/axiom-2026-q1-03/dec-00013.d358ffe9.json"
+            },
+            {
+              "id": "dec-00014",
+              "status": "ready",
+              "path": "decisions/axiom-bank/axiom-2026-q1-03/dec-00014.9839d476.json"
+            },
+            {
+              "id": "dec-00015",
+              "status": "closed",
+              "verdict": "approve",
+              "path": "decisions/axiom-bank/axiom-2026-q1-03/dec-00015.04620668.json"
+            },
+            {
+              "id": "dec-00016",
+              "status": "closed",
+              "verdict": "deny",
+              "path": "decisions/axiom-bank/axiom-2026-q1-03/dec-00016.de27b474.json"
+            },
+            {
+              "id": "dec-00017",
+              "status": "closed",
+              "verdict": "approve",
+              "path": "decisions/axiom-bank/axiom-2026-q1-03/dec-00017.9e3c5c2c.json"
+            },
+            {
+              "id": "dec-00018",
+              "status": "closed",
+              "verdict": "deny",
+              "path": "decisions/axiom-bank/axiom-2026-q1-03/dec-00018.851c8914.json"
+            },
+            {
+              "id": "dec-00019",
+              "status": "closed",
+              "verdict": "approve",
+              "path": "decisions/axiom-bank/axiom-2026-q1-03/dec-00019.b9d4d57a.json"
+            },
+            {
+              "id": "dec-00020",
+              "status": "closed",
+              "verdict": "approve",
+              "path": "decisions/axiom-bank/axiom-2026-q1-03/dec-00020.3adba1bc.json"
+            },
+            {
+              "id": "dec-00021",
+              "status": "closed",
+              "verdict": "approve",
+              "path": "decisions/axiom-bank/axiom-2026-q1-03/dec-00021.3dd01edd.json"
+            },
+            {
+              "id": "dec-00022",
+              "status": "closed",
+              "verdict": "approve",
+              "path": "decisions/axiom-bank/axiom-2026-q1-03/dec-00022.d0633851.json"
+            },
+            {
+              "id": "dec-00023",
+              "status": "closed",
+              "verdict": "approve",
+              "path": "decisions/axiom-bank/axiom-2026-q1-03/dec-00023.50001635.json"
+            },
+            {
+              "id": "dec-00024",
+              "status": "closed",
+              "verdict": "approve",
+              "path": "decisions/axiom-bank/axiom-2026-q1-03/dec-00024.6b63db28.json"
+            },
+            {
+              "id": "dec-00025",
+              "status": "reopened",
+              "verdict": "approve",
+              "path": "decisions/axiom-bank/axiom-2026-q1-03/dec-00025.181fd051.json"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "kurson-health",
+      "name": "Kurson Health Group",
+      "domain": "sepsis-alert",
+      "logo": "/logos/kurson-logo.svg",
+      "batches": [
+        {
+          "id": "kurson-2026-q1-01",
+          "mode": "ai-assisted",
+          "pre_escrow": false,
+          "created_at": "2026-01-15",
+          "count": 2,
+          "decisions": [
+            {
+              "id": "dec-00001",
+              "status": "closed",
+              "verdict": "yes",
+              "path": "decisions/kurson-health/kurson-2026-q1-01/dec-00001.646bb043.json"
+            },
+            {
+              "id": "dec-00002",
+              "status": "ready",
+              "path": "decisions/kurson-health/kurson-2026-q1-01/dec-00002.0ccdf615.json"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "meridian-insurance",
+      "name": "Meridian Insurance",
+      "domain": "insurance-claim",
+      "logo": "/logos/meridian-logo.svg",
+      "batches": [
+        {
+          "id": "meridian-2026-q1-01",
+          "mode": "ai-assisted",
+          "pre_escrow": true,
+          "created_at": "2026-01-15",
+          "count": 2,
+          "decisions": [
+            {
+              "id": "dec-00001",
+              "status": "closed",
+              "verdict": "approve",
+              "path": "decisions/meridian-insurance/meridian-2026-q1-01/dec-00001.57c98bdf.json"
+            },
+            {
+              "id": "dec-00002",
+              "status": "ready",
+              "path": "decisions/meridian-insurance/meridian-2026-q1-01/dec-00002.e42be663.json"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
